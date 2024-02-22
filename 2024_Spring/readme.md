@@ -71,7 +71,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Owensby, Elliott
 
-- [X] Patni, Tanisha (@tanishapatni123) 🎵🙌🔥
+- [ ] Patni, Tanisha
 
 - [X] Perez, Roberto (@robperch) 🐐🌲
 
@@ -97,7 +97,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Ukadike, Chifum
 
-- [ x] Vatsadze, Natia (@nvatsadze) 🙃😶‍🌫️
+- [x] Vatsadze, Natia (@nvatsadze) 🙃😶‍🌫️
 
 - [x] Wilson, Isaiah (@iwil1201) ⚫✔️👨‍🎓
 
